@@ -1,0 +1,6 @@
+fband_id,fband_name,rmin,rmax
+10,DELTA,1,4
+20,THETA,4,8
+30,ALPHA,8,12
+40,BETA,12,30
+50,GAMMA,30,50

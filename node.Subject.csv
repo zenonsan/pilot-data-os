@@ -1,0 +1,4 @@
+subject_id,ref_ds,pain_marker,age,sex,diagnosis,duration,pain_intensity,PDI,BDI,MQS
+sub_03_1204,hm,1,62,f,CBP,180,5.0,6.142857143,29.0,0.0
+sub_01_1390,dz,0,60,f,nan,-1,-1.0,-1.0,-1.0,-1.0
+sub_02_1045,td,1,41,m,CBP,22,7.0,-1.0,15.0,6.1
