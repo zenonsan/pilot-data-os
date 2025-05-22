@@ -1,0 +1,17 @@
+region_id,region_code,region_name,chain
+11,Nz,Nasian,0
+12,FP,Frontal Polar,1
+13,AF,Anterior Frontal,2
+14,F,Frontal,3
+15,FT,Frontal Temporal,4
+16,FC,Fronto-Central,4
+17,LPA,Left Preauricular,0
+18,T,Temporal,5
+19,C,Central,5
+20,RPA,Right Preauricular,0
+21,TP,Temporal Posterior,6
+22,CP,Centro-Parietal,6
+23,P,Parietal,7
+24,PO,Parieto-Occipital,8
+25,O,Occipital,9
+26,Iz,Inion,0
